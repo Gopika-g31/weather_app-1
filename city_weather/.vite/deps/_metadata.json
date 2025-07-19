@@ -1,0 +1,79 @@
+{
+  "hash": "0fc78711",
+  "configHash": "63f43f9b",
+  "lockfileHash": "9a008a4d",
+  "browserHash": "890295a8",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "78fd63ac",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "42ac9445",
+      "needsInterop": true
+    },
+    "react-router": {
+      "src": "../../node_modules/react-router/dist/development/index.mjs",
+      "file": "react-router.js",
+      "fileHash": "f1d9b963",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/esm/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "ae852b34",
+      "needsInterop": false
+    },
+    "@mui/icons-material/WbSunny": {
+      "src": "../../node_modules/@mui/icons-material/esm/WbSunny.js",
+      "file": "@mui_icons-material_WbSunny.js",
+      "fileHash": "cd4a74e3",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Cloud": {
+      "src": "../../node_modules/@mui/icons-material/esm/Cloud.js",
+      "file": "@mui_icons-material_Cloud.js",
+      "fileHash": "99572474",
+      "needsInterop": false
+    },
+    "@mui/icons-material/LocationCity": {
+      "src": "../../node_modules/@mui/icons-material/esm/LocationCity.js",
+      "file": "@mui_icons-material_LocationCity.js",
+      "fileHash": "159faacf",
+      "needsInterop": false
+    },
+    "lodash": {
+      "src": "../../node_modules/lodash/lodash.js",
+      "file": "lodash.js",
+      "fileHash": "4eb430cf",
+      "needsInterop": true
+    },
+    "@mui/icons-material/Umbrella": {
+      "src": "../../node_modules/@mui/icons-material/esm/Umbrella.js",
+      "file": "@mui_icons-material_Umbrella.js",
+      "fileHash": "b906d635",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-C6WWHQR7": {
+      "file": "chunk-C6WWHQR7.js"
+    },
+    "chunk-EKZOR2SC": {
+      "file": "chunk-EKZOR2SC.js"
+    },
+    "chunk-5HNGYYSW": {
+      "file": "chunk-5HNGYYSW.js"
+    },
+    "chunk-TVFQMRVC": {
+      "file": "chunk-TVFQMRVC.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
